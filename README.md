@@ -6,3 +6,9 @@ It gets the name, size, place, locality, and city name attributes of each proper
 Finally it uses a csv file to store all the data.
 
 The Script uses Request ,BeautifulSoup and Pandas library.
+
+Run the following command to install:-
+
+Requests: pip install requests
+BeautifulSoup: pip install beautifulsoup4
+Pandas: pip install pandas
